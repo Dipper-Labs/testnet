@@ -1,10 +1,10 @@
 {
-  "genesis_time": "2020-12-02T02:00:00.00000000Z",
+  "genesis_time": "2020-12-02T22:30:00.00000000Z",
   "chain_id": "dip-testnet",
   "consensus_params": {
     "block": {
-      "max_bytes": "22020096",
-      "max_gas": "-1",
+      "max_bytes": "2097152",
+      "max_gas": "1000000000",
       "time_iota_ms": "1000"
     },
     "evidence": {
@@ -43,7 +43,7 @@
     ],
     "staking": {
       "params": {
-        "next_extending_time": "2021-12-02T02:00:00.000000000Z",
+        "next_extending_time": "2021-12-02T22:30:00.000000000Z",
         "bond_denom": "pdip",
         "unbonding_time": "1209600000000000",
         "max_lever": "20.000000000000000000",
