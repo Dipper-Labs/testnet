@@ -95,7 +95,7 @@
         "coins": [
           {
             "denom": "pdip",
-            "amount": "1000000000000000000000"
+            "amount": "650000000000000000000"
           }
         ],
         "sequence_number": "0",
@@ -127,7 +127,7 @@
         "max_deposit_period": "86400000000000"
       },
       "voting_params": {
-        "voting_period": "432000000000000"
+        "voting_period": "1200000000000"
       },
       "tally_params": {
         "quorum": "0.334000000000000000",
